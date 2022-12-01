@@ -5,3 +5,7 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 # Data 
 The data used is an open source data by Instacart from 2017 and it is available [here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip). 
+# Tools 
+For this project, the following Python libraries were used:
+  * pandas - for data analysis
+  * seaborn - for visualization
